@@ -1,0 +1,1 @@
+import repository from https://bitbucket.org/kusu/redmine_work_time
